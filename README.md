@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## E-commerce Admin Dashboard inpired from Shopify
 
-## Getting Started
+##### No Framework - Super Responsive built with HTML5 SCSS ReactJs NextJs Node Express
 
-First, run the development server:
+##### Under Development Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![e-commerce admin dashboard ](https://i.imgur.com/059Bess.png)
+![e-commerce admin orders](https://i.imgur.com/f8c9XRd.png)
+![e-commerce admin abandoned](https://i.imgur.com/iNccwBQ.png)
+![e-commerce admin Single Order](https://i.imgur.com/s4hszuM.png)
+![e-commerce admin Single Order Add Tracking](https://i.imgur.com/7llHEcq.png)
+![e-commerce admin Single Order Capture Payment](https://i.imgur.com/nQIa0uk.png)
+![e-commerce admin Fulfillment](https://i.imgur.com/k8UGf2o.png)
+![e-commerce admin product empty list](https://i.imgur.com/7STmgEh.png)
+![e-commerce admin product list](https://i.imgur.com/inBm2a1.png)
+![e-commerce admin create product](https://i.imgur.com/hZyVlAC.png)
+![e-commerce admin edit product](https://i.imgur.com/xq7uOo4.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
